@@ -1,1 +1,1 @@
-![Instrumental Amplifier](./Instrumental_Amplifier.png)
+![Instrumental Amplifier](Instrumental_Amplifier.png)
