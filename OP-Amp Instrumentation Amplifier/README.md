@@ -1,1 +1,1 @@
-![Instrumental Amplifier](./Images/Instrumental Amplifier.png)
+![Instrumental Amplifier](./Images/Instrumental%20Amplifier.png)
