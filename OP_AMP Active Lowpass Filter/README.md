@@ -1,4 +1,13 @@
+# Lowpass Filter
+The lowpass filter are used to supress the high frequency signals or noise.
+
+
+The lowpass filter can be implemented using the combination of Resistance and Inductance, Resistance and capacitor or Inductor and capacitor.
+
+We have impemented using the Resistance and Capacitor(RC).
+
 # Lowpass Filter Design with Inverting Amplifier
+
 
 **Data:**
 
