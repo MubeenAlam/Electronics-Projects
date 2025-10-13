@@ -20,7 +20,7 @@ $R = \frac{1}{2 \pi (470n) (30)}$
 \
 \
 $R = 11287.58 \, \Omega \approx 11k \, \Omega$
-\
+
 ---
 
 ### Using the Inverting Amplifier
@@ -28,19 +28,14 @@ $R = 11287.58 \, \Omega \approx 11k \, \Omega$
 \
 $Gain = A = 9$
 \
-
 \
 $A = \frac{R_f}{R_{in}}$
 \
-
 \
 $R_f = 11k \, \Omega$
 \
-
 \
 $R_{in} = \frac{11k}{9}$
 \
-
 \
 $R_{in} = 1222 \approx 1200 \, \Omega$
-\
