@@ -6,6 +6,10 @@ The lowpass filter can be implemented using the combination of Resistance and In
 
 We have impemented using the Resistance and Capacitor(RC).
 
+**Active Lowpass Filter**
+
+The active lopass filter are type of filters which are assisted by active component like an amplifier. 
+
 # Lowpass Filter Design with Inverting Amplifier
 
 
