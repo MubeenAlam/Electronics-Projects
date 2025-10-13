@@ -37,6 +37,8 @@ $R = 11287.58 \ \Omega \approx 11k \ \Omega$
 
 **Using the Inverting Amplifier**
 
+we can set the gain of the amplifier as 9. any value of the gain can be used.
+
 $Gain = A = 9$
 
 $A = \frac{R_f}{R_{in}}$
