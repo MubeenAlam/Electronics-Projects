@@ -37,7 +37,7 @@ $R = 11287.58 \ \Omega \approx 11k \ \Omega$
 
 **Using the Inverting Amplifier**
 
-we can set the gain of the amplifier as 9. any value of the gain can be used.
+we can set the gain of the amplifier as 9. any value of the gain can be used. The value of gain dictates how much the ouput signal is amplified.
 
 $Gain = A = 9$
 
