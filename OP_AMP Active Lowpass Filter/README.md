@@ -19,7 +19,7 @@ $R = \frac{1}{2 \pi C \mathit{f}}$
 $R = \frac{1}{2 \pi (470n) (30)}$
 \
 \
-$R = 11287.58 \, \Omega \approx 11k \, \Omega$
+$R = 11287.58 \ \Omega \approx 11k \ \Omega$
 
 ---
 
