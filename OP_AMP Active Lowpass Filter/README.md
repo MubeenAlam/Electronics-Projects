@@ -48,3 +48,7 @@ $R_f = 11k \ \Omega$
 $R_{in} = \frac{11k}{9}$
 
 $R_{in} = 1222 \approx 1200 \ \Omega$
+
+# Simulation, Results and implementation
+
+The simulation, Results and implementation are in given PDF.
