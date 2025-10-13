@@ -18,7 +18,7 @@ $C = 470 nF$
 
 ---
 
-### Lowpass Filter Formula
+**Lowpass Filter Formula**
 
 $\mathit{f} = \frac{1}{2 \pi R C}$ 
 \
