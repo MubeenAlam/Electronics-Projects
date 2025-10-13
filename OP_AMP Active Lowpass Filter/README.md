@@ -8,12 +8,13 @@ We have impemented using the Resistance and Capacitor(RC).
 
 # Lowpass Filter Design with Inverting Amplifier
 
-
-**Data:**
-
-$\mathit{f}$ = 30 Hz
+**Lets say:**
 \
-C = 470 nF
+Frequency = $\mathit{f} = 30 Hz$
+\
+we can use any value of capacitor value lets pick
+\
+$C = 470 nF$
 
 ---
 
