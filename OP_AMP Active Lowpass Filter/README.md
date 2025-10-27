@@ -53,4 +53,4 @@ $R_{in} = 1222 \approx 1200 \ \Omega$
 # Simulation, Results and implementation
 
 The simulation, Results and implementation are in given PDF.
-![Simulation and Results](https://link-url-here.org)
+![Simulation and Results](https://github.com/MubeenAlam/Electronics-Projects/blob/main/OP_AMP%20Active%20Lowpass%20Filter/Simulation%20and%20Results.pdf)
