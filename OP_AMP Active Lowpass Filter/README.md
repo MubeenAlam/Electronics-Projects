@@ -1,3 +1,5 @@
+![Active Lowpass Filter](./Images/implementation.png)
+
 # Lowpass Filter
 The lowpass filter are used to supress the high frequency signals or noise.
 
