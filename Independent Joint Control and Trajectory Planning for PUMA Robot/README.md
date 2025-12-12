@@ -1,6 +1,6 @@
 # Independent Joint Control and Trajectory Planning for PUMA Robot
 
-## 📌 Aim of the Project
+## Aim of the Project
 
 Robots are widely used in modern industrial and commercial applications. As robots are assigned increasingly complex tasks, efficient and stable control mechanisms become essential.
 
@@ -11,7 +11,7 @@ The aim of this project is to:
 
 ---
 
-## 🛠️ Methodology
+## Methodology
 
 This project uses an **Independent Joint Control** scheme where each robot joint is controlled separately without coupling effects.
 
@@ -35,7 +35,7 @@ This project uses an **Independent Joint Control** scheme where each robot joint
 
 ---
 
-## 🎛️ Independent Joint Controller
+## Independent Joint Controller
 
 The controller used is a **Proportional + Velocity (PV) Controller**.
 
@@ -52,7 +52,7 @@ The controller used is a **Proportional + Velocity (PV) Controller**.
 
 ---
 
-## 📐 Controller Calculations
+## Controller Calculations
 
 The motor and controller system is modeled using transfer functions.
 
@@ -79,7 +79,7 @@ Controller gains:
 
 ---
 
-## 💻 Simulation Setup
+## Simulation Setup
 
 ### Files Used
 
@@ -97,7 +97,7 @@ Controller gains:
 
 ---
 
-## 📊 Results and Plots
+## Results and Plots
 
 ### End Effector Trajectory
 - 3D plot showing motion from initial to final position
@@ -114,7 +114,7 @@ Controller gains:
 
 ---
 
-## 🧠 Discussion
+## Discussion
 
 - Independent joint control performs well for **large motions**
 - Small, precise movements show:
@@ -124,7 +124,7 @@ Controller gains:
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 - Independent Joint Controllers are:
   - Simple
@@ -138,7 +138,7 @@ Controller gains:
 
 ---
 
-## 📁 Code
+## Code
 
 ### MATLAB Files
 - `vars.m` – Parameter calculation, inverse kinematics, trajectory planning
@@ -146,13 +146,11 @@ Controller gains:
 
 ---
 
-## 📚 Tools Used
+## Tools Used
 - MATLAB
 - Simulink
 - GitHub
 
 ---
 
-## 👤 Author
-*(Add your name here)*
 
