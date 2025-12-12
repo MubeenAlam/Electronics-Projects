@@ -58,9 +58,9 @@ The motor and controller system is modeled using transfer functions.
 
 ### Key Parameters
 - Natural frequency:  
-  \[
-  \omega_n
-  \]
+  
+  \omega_n$
+  
 
 - Damping ratio:  
   \[
