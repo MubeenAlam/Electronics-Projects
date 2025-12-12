@@ -63,9 +63,8 @@ The motor and controller system is modeled using transfer functions.
   
 
 - Damping ratio:  
-  \[
-  \zeta
-  \]
+  
+  $ \zeta $
 
 Motor constants:
 - Armature resistance
