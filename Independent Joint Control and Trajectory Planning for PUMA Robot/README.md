@@ -73,8 +73,8 @@ Motor constants:
 - Effective moment of inertia
 
 Controller gains:
-- Proportional gain \( K_p \)
-- Velocity gain \( K_v \)
+- Proportional gain $( K_{p} )$
+- Velocity gain $( K_{p} )$
 
 ---
 
